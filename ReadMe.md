@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am student in Chuka University<br>Currently learning ML and AI<br>Fun fact: A neural network called "SkyKnit" was trained on thousands of knitting patterns to generate new and unique designs, showcasing the creative potential of machine learning algorithms beyond traditional applications.
+I am student in Chuka University<br>Currently learning ML and AI<br>Fun fact: A neural network called "SkyKnit" was trained on thousands of knitting patterns to generate new and unique designs, showcasing the creative potential of machine learning algorithms.
 
 
 ## 🌐 Socials:
